@@ -1,0 +1,4 @@
+first create a git repository on github.
+then add remote in local git and then push it to that remote repository.
+
+https://docs.github.com/en/github/using-git/adding-a-remote
